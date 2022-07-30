@@ -2,8 +2,13 @@ Answer the questions below. Submit your typed responses to the Dropbox for Unit 
 
 1. Explain the difference between an error and a defect.
 
-2. Assume that 10 errors have been introduced in the requirements model and that each error will be amplified by a factor of 2:1 into design and an addition 20 design errors are introduced and then amplified 1.5:1 into code where an additional 30 errors are introduced. Assume further that all unit testing will find 30 percent of all errors, integration will find 30 percent of the remaining errors, and validation tests will find 50 percent of the remaining errors. No reviews are conducted. How many errors will be released to the field.
+2. Assume that 10 errors have been introduced in the requirements model and that each error will be amplified by a factor of 2:1 into design and an addition 20 design 
+errors are introduced and then amplified 1.5:1 into code where an additional 30 errors are introduced. Assume further that all unit testing will find 30 percent of all 
+errors, integration will find 30 percent of the remaining errors, and validation tests will find 50 percent of the remaining errors. No reviews are conducted. 
+How many errors will be released to the field.
 
-3. Reconsider the situation described in Problem 2, but now assume that requirements, design, and code reviews are conducted and are 60 percent effective in uncovering all errors at that step. How many errors will be released to the field?
+3. Reconsider the situation described in Problem 2, but now assume that requirements, design, and code reviews are conducted and are 60 percent effective in uncovering 
+all errors at that step. How many errors will be released to the field?
 
-4. Pick any of the review techniques other than Fagan's. Find the original publication that describes the technique. Write a third of a page synopsis of the article. Be sure to cite the source, title and author. Do the paper cite Fagan?
+4. Pick any of the review techniques other than Fagan's. Find the original publication that describes the technique. Write a third of a page synopsis of the article. 
+Be sure to cite the source, title and author. Do the paper cite Fagan?
