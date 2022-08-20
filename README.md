@@ -11,6 +11,6 @@ Below are images that show some ideas about our project. <br></br>
 ![image](https://user-images.githubusercontent.com/18066827/185766795-4a5768fa-5827-44a2-8d9a-3cee63a856e4.png)
 
 
-If you are interested in this project, the link below could let you know more about the it.
+If you are interested in this project, the link below could let you know more about it.
 
 https://youtu.be/AOce-l2eDu4
