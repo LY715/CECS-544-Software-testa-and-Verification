@@ -1,6 +1,6 @@
 # CECS-544-Software-testa-and-Verification
 
-### Mainly use ****Java**** and ****JUnit**** to test our program in this course.  
+### Mainly use ****Java**** and ****JUnit**** to test our program in this course. <
 
 
 
