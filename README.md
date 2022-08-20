@@ -4,4 +4,4 @@ Mainly use Java in this course.
 Java, JUnit.
 
 
-****FileManager is our semester project****
+****FileManager is our semester project**** which completed by me and my partner ****Satoshi Yuki****
